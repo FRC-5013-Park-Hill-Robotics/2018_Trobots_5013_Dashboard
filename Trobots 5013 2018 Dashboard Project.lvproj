@@ -19,6 +19,9 @@
 			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
+		<Item Name="path images" Type="Folder" URL="../path images">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Auto Configuration.vi" Type="VI" URL="../Auto Configuration.vi"/>
 		<Item Name="Routines and Block Data.ctl" Type="VI" URL="../Routines and Block Data.ctl"/>
@@ -303,9 +306,21 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Routines.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Support Code/Routines.ctl"/>
-			<Item Name="Far to Line1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/Far to Line1.ctl"/>
-			<Item Name="Line1 to ESwitch1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/Line1 to ESwitch1.ctl"/>
-			<Item Name="End Switch to Corridor.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/End Switch to Corridor.ctl"/>
+			<Item Name="Far--L.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/Far--L.ctl"/>
+			<Item Name="L--end Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/L--end Sw.ctl"/>
+			<Item Name="end Sw--sq C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/end Sw--sq C1.ctl"/>
+			<Item Name="end cube--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/end cube--C1.ctl"/>
+			<Item Name="C1--d Hi.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C1--d Hi.ctl"/>
+			<Item Name="C1--C3.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C1--C3.ctl"/>
+			<Item Name="C3--C4.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C3--C4.ctl"/>
+			<Item Name="d Hi--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/d Hi--C1.ctl"/>
+			<Item Name="C3--End Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C3--End Sw.ctl"/>
+			<Item Name="C3--cube Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C3--cube Sw.ctl"/>
+			<Item Name="M--front LSw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/M--front LSw.ctl"/>
+			<Item Name="M--front RSw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/M--front RSw.ctl"/>
+			<Item Name="front Sw--L.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/front Sw--L.ctl"/>
+			<Item Name="L--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/L--C1.ctl"/>
+			<Item Name="C1--end cube.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C1--end cube.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
