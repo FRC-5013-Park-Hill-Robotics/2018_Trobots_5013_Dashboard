@@ -307,7 +307,6 @@
 			</Item>
 			<Item Name="Routines.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Support Code/Routines.ctl"/>
 			<Item Name="Far--L.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/Far--L.ctl"/>
-			<Item Name="L--end Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/L--end Sw.ctl"/>
 			<Item Name="end Sw--sq C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/end Sw--sq C1.ctl"/>
 			<Item Name="end cube--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/end cube--C1.ctl"/>
 			<Item Name="C1--d Hi.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C1--d Hi.ctl"/>
@@ -316,11 +315,12 @@
 			<Item Name="d Hi--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/d Hi--C1.ctl"/>
 			<Item Name="C3--End Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C3--End Sw.ctl"/>
 			<Item Name="C3--cube Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C3--cube Sw.ctl"/>
-			<Item Name="M--front LSw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/M--front LSw.ctl"/>
 			<Item Name="M--front RSw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/M--front RSw.ctl"/>
-			<Item Name="front Sw--L.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/front Sw--L.ctl"/>
 			<Item Name="L--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/L--C1.ctl"/>
 			<Item Name="C1--end cube.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C1--end cube.ctl"/>
+			<Item Name="L--end Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/L--end Sw.ctl"/>
+			<Item Name="front Sw--L.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/front Sw--L.ctl"/>
+			<Item Name="M--front LSw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/M--front LSw.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
@@ -337,7 +337,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">22</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
