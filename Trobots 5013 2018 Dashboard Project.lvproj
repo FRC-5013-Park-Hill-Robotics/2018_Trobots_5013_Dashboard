@@ -321,6 +321,9 @@
 			<Item Name="L--end Sw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/L--end Sw.ctl"/>
 			<Item Name="front Sw--L.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/front Sw--L.ctl"/>
 			<Item Name="M--front LSw.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/M--front LSw.ctl"/>
+			<Item Name="SQ Hi--C1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/SQ Hi--C1.ctl"/>
+			<Item Name="C1--sq Hi.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/C1--sq Hi.ctl"/>
+			<Item Name="front Sw--P cube1.ctl" Type="VI" URL="../../2018_Trobots_5013_Robot/Auto Code/Block Clusters/front Sw--P cube1.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
@@ -337,7 +340,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">23</Property>
+				<Property Name="Bld_version.build" Type="Int">26</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
